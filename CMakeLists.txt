@@ -3,6 +3,7 @@ project(qt_opengl CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(Qt6_DIR ./build/Release/generators)
 
 find_package(Qt6 CONFIG REQUIRED COMPONENTS
     OpenGLWidgets

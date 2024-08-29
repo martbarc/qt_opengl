@@ -1,4 +1,15 @@
 .conan2
+.qt
+.rcc
+cmake_install.cmake
 CMakeLists.txt.user
 CMakeUserPresets.json
 build
+Makefile
+CMakeCache.txt
+CMakeFiles
+
+l1_hello_window/l1_hello_window_autogen
+l1_hello_window/l1_hello_window
+l2_hello_triangle/l2_hello_triangle_autogen
+l2_hello_triangle/l2_hello_triangle
